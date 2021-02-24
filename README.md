@@ -9,23 +9,23 @@ reddit comment:
 """
 You can take almost any idea and expand it to include 95% of programming topics. For example the simple game of tic-tac-toe. Past the base game try these:
 
-Have the user define X for an x by x board. Meaning support anything from 3x3 to 10x10 boards dynamically based on user input.
+1. Have the user define X for an x by x board. Meaning support anything from 3x3 to 10x10 boards dynamically based on user input. (done)
 
-Have the user define how many in a row you need to win - checking for 3 in a row on a 5x5 is very different than checking for 5 in a row on 5x5.
+2. Have the user define how many in a row you need to win - checking for 3 in a row on a 5x5 is very different than checking for 5 in a row on 5x5. (done)
 
-Create a UI/graphics instead of printing text out to display the board. Or make it web based.
+3. Create a UI/graphics instead of printing text out to display the board. Or make it web based.
 
-Make it 3 player. Or X players. Have the players choose what symbol/letter to use.
+4. Make it 3 player. Or X players. Have the players choose what symbol/letter to use.
 
-Make a computer player that can play the game. Make easy,average,hard versions of the ai. The mini-max algorithm is commonly used. Make a version of the AI that uses machine learning.
+5. Make a computer player that can play the game. Make easy,average,hard versions of the ai. The mini-max algorithm is commonly used. Make a version of the AI that uses machine learning. (mini-max in progress)
 
-Ruin all your previous logic by supporting non-perfect square boards. 3x5 or 6x2 boards. Go crazy and remove a random square from the middle of a generated board (this really screws all your previous logic.)
+6. Ruin all your previous logic by supporting non-perfect square boards. 3x5 or 6x2 boards. Go crazy and remove a random square from the middle of a generated board (this really screws all your previous logic.)
 
-Have a database of users and keep their win/loss records. Make an elo system for them.
+7. Have a database of users and keep their win/loss records. Make an elo system for them.
 
-Write unit tests for your program.
+8. Write unit tests for your program.
 
-Support network games (non-hotseat.)
+9. Support network games (non-hotseat.)
 
 What these will teach you:
 
