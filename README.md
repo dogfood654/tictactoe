@@ -9,9 +9,9 @@ reddit comment:
 """
 You can take almost any idea and expand it to include 95% of programming topics. For example the simple game of tic-tac-toe. Past the base game try these:
 
-1. Have the user define X for an x by x board. Meaning support anything from 3x3 to 10x10 boards dynamically based on user input. (done)
+1. Have the user define X for an x by x board. Meaning support anything from 3x3 to 10x10 boards dynamically based on user input. (done - board.py)
 
-2. Have the user define how many in a row you need to win - checking for 3 in a row on a 5x5 is very different than checking for 5 in a row on 5x5. (done)
+2. Have the user define how many in a row you need to win - checking for 3 in a row on a 5x5 is very different than checking for 5 in a row on 5x5. (done - check.py)
 
 3. Create a UI/graphics instead of printing text out to display the board. Or make it web based.
 
