@@ -1,3 +1,5 @@
+# find all possiblities and compare
+
 '''
 123
 456

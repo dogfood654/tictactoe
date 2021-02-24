@@ -1,6 +1,8 @@
 # 2. Have the user define how many in a row you need to win - checking for 3 in a row on a 5x5 is very different than checking for 5
 # in a row on 5x5.
 
+# use mathematics
+
 user_prompt = 3
 
 '''
