@@ -41,3 +41,7 @@ What these will teach you:
 
 9 - Networking, you can go as far as you want in this. Anywhere from basic LAN to hosting a server for leaderboards. You can go overboard and make a minecraft like setup where you need both a client and server to play the game; this really enforces separation of UI/frontend and backend.
 """
+
+Additional:
+
+10. Learn object-oriented programming. Implement in classes. (done - class.py)
