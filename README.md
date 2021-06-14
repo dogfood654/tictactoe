@@ -14,7 +14,7 @@ You can take almost any idea and expand it to include 95% of programming topics.
 
 2. Have the user define how many in a row you need to win - checking for 3 in a row on a 5x5 is very different than checking for 5 in a row on 5x5. **(done - check.py)**
 
-3. Create a UI/graphics instead of printing text out to display the board. Or make it web based. (in progress)
+3. Create a UI/graphics instead of printing text out to display the board. Or make it web based. **(done - pygame.py)**
 
 4. Make it 3 player. Or X players. Have the players choose what symbol/letter to use.
 
